@@ -1,4 +1,4 @@
-# Phần mềm tìm đường đi trên bản đồ phường Giảng Võ - Nhóm 19
+# Phần mềm tìm đường đi trên bản đồ phường Giảng Võ - Nhóm 5
 
 Đây là bài tập lớn môn **Nhập môn Trí tuệ Nhân tạo**.
 Ứng dụng sử dụng thuật toán **A*** để tìm đường đi ngắn nhất và nhanh nhất giữa hai điểm trên bản đồ thực tế của phường Giảng Võ, Ba Đình, Hà Nội.
