@@ -48,19 +48,7 @@ ox.settings.log_console = True
 ox.settings.use_cache = True
 ox.settings.timeout = 300
 
-# CENTER_LAT = 21.00285
-# CENTER_LON = 105.84084 
-# ZOOM_START = 16
-# DEFAULT_LOCATION = (CENTER_LAT, CENTER_LON)  # location of Phuong Mai, Dong Da, Hanoi, Vietnam
-# DEFAULT_ZOOM = ZOOM_START
-# # Define the path to the saved graph file
-# GRAPHML_FILE = "phuongmai.graphml"
-# Cấu hình cũ (Phương Mai)
-# CENTER_LAT = 21.00285
-# CENTER_LON = 105.84084 
-# GRAPHML_FILE = "phuongmai.graphml"
-
-# --- SỬA THÀNH --- (Giảng Võ)
+# Cấu hình MAP (Giảng Võ)
 CENTER_LAT = 21.02870  # Tọa độ hồ Giảng Võ (ước lượng trung tâm phường)
 CENTER_LON = 105.81920 
 ZOOM_START = 15      # Giữ nguyên hoặc chỉnh lên 17 nếu muốn zoom gần hơn
